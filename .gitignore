@@ -9,9 +9,12 @@ build/*_release/
 *.com
 *.class
 *.dll
+*.iobj
+*.ipdb
 *.lib
 *.pdb
 *.exe
+*.exp
 *.o
 *.so
 *.so.1
